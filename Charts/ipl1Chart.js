@@ -24,7 +24,7 @@ function plotChart(){
  Highcharts.chart('container', {
      
      chart: {
-         type: 'circle'
+         type: 'column'
      },
      title: {
          text: 'Total Matches are Won In Per Year.'
